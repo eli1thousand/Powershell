@@ -2,6 +2,8 @@
 <h2><b>Get-ADUser: <i>username</i></b> - allows one to view a user and their information.</h2>
 <img width="677" height="242" alt="Screenshot 2026-08-20 210802" src="https://github.com/user-attachments/assets/066d98b2-813f-4714-baaf-054f33a9a1a4" />
 
+<h2>Get-ADGroup: "____ " - allows one to view a group and it's information.  </h2>
+<img width="947" height="193" alt="Screenshot 2026-08-21 113921" src="https://github.com/user-attachments/assets/1e066816-ba77-47ec-a237-b070a85e29ad" />
 
 
 <h1>Powershall Command: Account Inactivity</h1>
