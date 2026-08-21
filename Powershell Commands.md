@@ -1,6 +1,7 @@
 <h1>Powershell Command: Get</h1>
-<h2>The Powershell Command: Get-ADUser: <i>username</i>  allows one to view a user and their departments.</h2>
-<img width="950" height="223" alt="Screenshot 2026-08-20 205115" src="https://github.com/user-attachments/assets/5fa53dee-bf8d-4708-a03a-d0e3886442c2" />
+<h2>The Powershell Command: Get-ADUser: <i>username</i>  allows one to view a user and their departments and classes.</h2>
+<img width="677" height="242" alt="Screenshot 2026-08-20 210802" src="https://github.com/user-attachments/assets/066d98b2-813f-4714-baaf-054f33a9a1a4" />
+
 
 
 
